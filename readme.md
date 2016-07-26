@@ -1,3 +1,10 @@
+ApiDoc Instructions.
+
+Install phpdoc using composer.
+Once installed, copy the phpdoc.dist.xml and paste into vender/bin folder.
+Open a terminal relative to the vender/bin directory, and run "phpdoc"
+Documents will be created in the docs/output directory. open index.html for the docs/output directory to see generated docuements.
+
 # Emoncms 9
 
 [![Build Status](https://travis-ci.org/emoncms/emoncms.svg?branch=master)](https://travis-ci.org/emoncms/emoncms)
